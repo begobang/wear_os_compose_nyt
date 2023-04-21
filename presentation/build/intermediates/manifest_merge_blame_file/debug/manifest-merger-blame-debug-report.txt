@@ -1,0 +1,97 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    xmlns:tools="http://schemas.android.com/tools"
+4    package="com.nttdata.presentation" >
+5
+6    <uses-sdk
+7        android:minSdkVersion="26"
+7-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+8        android:targetSdkVersion="32" />
+8-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+9
+10    <uses-permission android:name="android.permission.WAKE_LOCK" />
+10-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:5:5-68
+10-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:5:22-65
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:6:5-66
+11-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="com.google.android.wearable.permission.BIND_TILE_PROVIDER" />
+12-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:7:5-96
+12-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:7:22-94
+13
+14    <uses-feature android:name="android.hardware.type.watch" />
+14-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:9:5-64
+14-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:9:19-61
+15
+16    <application android:theme="@android:style/Theme.DeviceDefault" >
+16-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:11:5-52:19
+16-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:11:18-68
+17        <uses-library
+17-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:13:9-15:39
+18            android:name="com.google.android.wearable"
+18-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:14:13-55
+19            android:required="true" />
+19-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:15:13-36
+20
+21        <!--
+22               Set to true if your app is Standalone, that is, it does not require the handheld
+23               app to run.
+24        -->
+25        <meta-data
+25-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:21:9-23:36
+26            android:name="com.google.android.wearable.standalone"
+26-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:22:13-66
+27            android:value="true" />
+27-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:23:13-33
+28
+29        <activity
+29-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:25:9-39:20
+30            android:name="com.nttdata.presentation.MainActivity"
+30-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:26:13-41
+31            android:exported="true"
+31-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:27:13-36
+32            android:label="@string/app_name"
+32-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:28:13-45
+33            android:theme="@android:style/Theme.DeviceDefault" >
+33-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:29:13-63
+34            <intent-filter>
+34-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:30:13-34:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:31:17-69
+35-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:31:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:33:17-77
+37-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:33:27-74
+38            </intent-filter>
+39
+40            <meta-data
+40-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:36:13-38:36
+41                android:name="android.app.lib_name"
+41-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:37:17-52
+42                android:value="" />
+42-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:38:17-33
+43        </activity>
+44
+45        <service
+45-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:41:9-50:19
+46            android:name="com.nttdata.presentation.ui.tile.TopNewsTileService"
+46-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:42:13-55
+47            android:description="@string/live_news"
+47-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:43:13-52
+48            android:exported="true"
+48-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:44:13-36
+49            android:label="@string/live_news"
+49-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:45:13-46
+50            android:permission="com.google.android.wearable.permission.BIND_TILE_PROVIDER" >
+50-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:46:13-91
+51            <intent-filter>
+51-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:47:13-49:29
+52                <action android:name="androidx.wear.tiles.action.BIND_TILE_PROVIDER" />
+52-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:48:17-88
+52-->/Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:48:25-85
+53            </intent-filter>
+54        </service>
+55    </application>
+56
+57</manifest>

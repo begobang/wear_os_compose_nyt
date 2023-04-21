@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">NYTimesApp</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="log_in">Enter</string>
+    <string name="movies">Films</string>
+    <string name="movies_description">Best critics on films.</string>
+    <string name="books">Literature</string>
+    <string name="live_news">Live News!</string>
+    <string name="archive">News Archive</string>
+    <string name="archive_description">Consult our archive</string>
+    <string name="sections">Sections</string>
+</resources>

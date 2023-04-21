@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-xxhdpi_ic_laucher_round.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-xxhdpi/ic_laucher_round.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-hdpi_ic_laucher_foreground.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-hdpi/ic_laucher_foreground.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-mdpi_ic_laucher_foreground.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-mdpi/ic_laucher_foreground.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-xxxhdpi_ic_laucher.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-xxxhdpi/ic_laucher.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-hdpi_ic_laucher_round.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-hdpi/ic_laucher_round.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/drawable_ic_ny.png.flat",
+        "source": "com.nttdata.nytimesapp-main-84:/drawable/ic_ny.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-xhdpi_ic_laucher_round.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-xhdpi/ic_laucher_round.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-mdpi_ic_laucher_round.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-mdpi/ic_laucher_round.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-xxhdpi_ic_laucher_foreground.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-xxhdpi/ic_laucher_foreground.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-mdpi_ic_laucher.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-mdpi/ic_laucher.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-xxhdpi_ic_laucher.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-xxhdpi/ic_laucher.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-xxxhdpi_ic_laucher_foreground.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-xxxhdpi/ic_laucher_foreground.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/drawable_ic_breaking_news.xml.flat",
+        "source": "com.nttdata.nytimesapp-main-84:/drawable/ic_breaking_news.xml"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-anydpi-v26_ic_laucher.xml.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-anydpi-v26/ic_laucher.xml"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-xxxhdpi_ic_laucher_round.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-xxxhdpi/ic_laucher_round.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/drawable_ic_android_black_24dp.xml.flat",
+        "source": "com.nttdata.nytimesapp-main-84:/drawable/ic_android_black_24dp.xml"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-xhdpi_ic_laucher_foreground.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-xhdpi/ic_laucher_foreground.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-anydpi-v26_ic_laucher_round.xml.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-anydpi-v26/ic_laucher_round.xml"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-xhdpi_ic_laucher.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-xhdpi/ic_laucher.png"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/drawable_ic_laucher_background.xml.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/drawable/ic_laucher_background.xml"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/drawable_ic_laucher_ny_background.xml.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/drawable/ic_laucher_ny_background.xml"
+    },
+    {
+        "merged": "com.nttdata.nytimesapp-merged_res-82:/mipmap-hdpi_ic_laucher.png.flat",
+        "source": "com.nttdata.nytimesapp-debug-83:/mipmap-hdpi/ic_laucher.png"
+    }
+]

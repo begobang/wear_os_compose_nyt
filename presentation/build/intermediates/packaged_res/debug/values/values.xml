@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NYTimesApp</string>
+    <string name="archive">News Archive</string>
+    <string name="archive_description">Consult our archive</string>
+    <string name="books">Literature</string>
+    <string name="hello_world">From the Square world,\nHello, %1$s!</string>
+    <string name="live_news">Live News!</string>
+    <string name="log_in">Enter</string>
+    <string name="movies">Films</string>
+    <string name="movies_description">Best critics on films.</string>
+    <string name="sections">Sections</string>
+</resources>

@@ -1,0 +1,76 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.nttdata.nytimesapp-mergeDebugResources-80:/values-v23/values-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/bfernave/.gradle/caches/transforms-3/ddea905a1801298c4d87839efa825450/transformed/material-1.7.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,5,8,13,17,20,23,26,31,34,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,271,481,801,1038,1245,1452,1655,1987,2189,2454",
+                        "endLines": "4,7,12,16,19,22,25,30,33,37,41",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "266,476,796,1033,1240,1447,1650,1982,2184,2449,2722"
+                    },
+                    "to": {
+                        "startLines": "54,57,60,65,69,72,75,78,83,86,90",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3438,3654,3864,4184,4421,4628,4835,5038,5370,5572,5837",
+                        "endLines": "56,59,64,68,71,74,77,82,85,89,93",
+                        "endColumns": "10,10,10,10,10,10,10,10,10,10,10",
+                        "endOffsets": "3649,3859,4179,4416,4623,4830,5033,5365,5567,5832,6105"
+                    }
+                },
+                {
+                    "source": "/Users/bfernave/.gradle/caches/transforms-3/0c5d05c9dc33fb591708ffea52d7a1fb/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "3288",
+                        "endLines": "53",
+                        "endColumns": "12",
+                        "endOffsets": "3433"
+                    }
+                },
+                {
+                    "source": "/Users/bfernave/.gradle/caches/transforms-3/26969cec9235d2ba33cb932781dda4b9/transformed/appcompat-1.5.1/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,190,325,400,487,1225,1975,2094,2221,2443,2667,2782,2889,3002",
+                        "endLines": "2,3,4,5,19,33,34,35,38,42,43,44,45,49",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "185,320,395,482,1220,1970,2089,2216,2438,2662,2777,2884,2997,3227"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,21,35,36,37,40,44,45,46,47",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "111,246,381,456,543,1281,2031,2150,2277,2499,2723,2838,2945,3058",
+                        "endLines": "3,4,5,6,20,34,35,36,39,43,44,45,46,50",
+                        "endColumns": "134,134,74,86,12,12,118,126,12,12,114,106,112,12",
+                        "endOffsets": "241,376,451,538,1276,2026,2145,2272,2494,2718,2833,2940,3053,3283"
+                    }
+                },
+                {
+                    "source": "/Users/bfernave/.gradle/caches/transforms-3/e4eae8b648be336ef804db5bec81cb7d/transformed/glance-appwidget-1.0.0-alpha05/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

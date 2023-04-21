@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Glance.AppWidget.Theme" parent="android:Theme.DeviceDefault.DayNight"/>
+    <style name="TextAppearance.Bold" parent="">
+        <item name="android:textFontWeight">700</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.Medium" parent="">
+        <item name="android:textFontWeight">500</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+    <style name="TextAppearance.Normal" parent="">
+        <item name="android:textFontWeight">400</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+</resources>

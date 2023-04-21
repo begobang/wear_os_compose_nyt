@@ -1,0 +1,87 @@
+com.nttdata.nytimesapp-compose-material-1.1.0-0 /Users/bfernave/.gradle/caches/transforms-3/0130b82036afae070c1f603e42554aba/transformed/compose-material-1.1.0/res
+com.nttdata.nytimesapp-startup-runtime-1.1.1-1 /Users/bfernave/.gradle/caches/transforms-3/0266921f4e079beb6f27b09c057cb444/transformed/startup-runtime-1.1.1/res
+com.nttdata.nytimesapp-runtime-livedata-1.2.0-2 /Users/bfernave/.gradle/caches/transforms-3/0b5095968b191ac0483845e2bf38131c/transformed/runtime-livedata-1.2.0/res
+com.nttdata.nytimesapp-navigation-common-2.5.3-3 /Users/bfernave/.gradle/caches/transforms-3/0ba92e45457dbf3a7762a0a18d7290df/transformed/navigation-common-2.5.3/res
+com.nttdata.nytimesapp-cardview-1.0.0-4 /Users/bfernave/.gradle/caches/transforms-3/0c5d05c9dc33fb591708ffea52d7a1fb/transformed/cardview-1.0.0/res
+com.nttdata.nytimesapp-tiles-1.0.0-5 /Users/bfernave/.gradle/caches/transforms-3/0d1cef6f77833664f72a7ac8568792ab/transformed/tiles-1.0.0/res
+com.nttdata.nytimesapp-animation-core-1.3.2-6 /Users/bfernave/.gradle/caches/transforms-3/0ffb6849c84511e910a0888394a2bca6/transformed/animation-core-1.3.2/res
+com.nttdata.nytimesapp-fragment-1.5.0-7 /Users/bfernave/.gradle/caches/transforms-3/11cd69dfe2dc464e3cd882dd798c0017/transformed/fragment-1.5.0/res
+com.nttdata.nytimesapp-lifecycle-runtime-compose-2.6.0-alpha03-8 /Users/bfernave/.gradle/caches/transforms-3/12a0a4634e6fbdcce333bb8dc883a78e/transformed/lifecycle-runtime-compose-2.6.0-alpha03/res
+com.nttdata.nytimesapp-annotation-experimental-1.3.0-9 /Users/bfernave/.gradle/caches/transforms-3/1499241afe41a5877dc95902c71e3c10/transformed/annotation-experimental-1.3.0/res
+com.nttdata.nytimesapp-ui-1.3.2-10 /Users/bfernave/.gradle/caches/transforms-3/183ea0602f53ce00f12596cb8d69cb22/transformed/ui-1.3.2/res
+com.nttdata.nytimesapp-material-ripple-1.3.0-11 /Users/bfernave/.gradle/caches/transforms-3/19a136846e34a6a548f7a865bb6dcf48/transformed/material-ripple-1.3.0/res
+com.nttdata.nytimesapp-ui-tooling-data-1.3.2-12 /Users/bfernave/.gradle/caches/transforms-3/1a8d93144c87762270fe07586205b051/transformed/ui-tooling-data-1.3.2/res
+com.nttdata.nytimesapp-navigation-compose-2.5.3-13 /Users/bfernave/.gradle/caches/transforms-3/1c43045cf86c8ff2472c9a3a488e9fc4/transformed/navigation-compose-2.5.3/res
+com.nttdata.nytimesapp-glance-1.0.0-alpha05-14 /Users/bfernave/.gradle/caches/transforms-3/1ce67a13e50437cfa824dfb0964db032/transformed/glance-1.0.0-alpha05/res
+com.nttdata.nytimesapp-lifecycle-runtime-2.6.0-alpha03-15 /Users/bfernave/.gradle/caches/transforms-3/1f05ca8bb83e8509fc59c58cfa4362ac/transformed/lifecycle-runtime-2.6.0-alpha03/res
+com.nttdata.nytimesapp-coil-base-2.2.0-16 /Users/bfernave/.gradle/caches/transforms-3/2182a358a2c9f096e5ef957f493912f4/transformed/coil-base-2.2.0/res
+com.nttdata.nytimesapp-recyclerview-1.1.0-17 /Users/bfernave/.gradle/caches/transforms-3/236aa63d8094ebc760ad6363efe58ce1/transformed/recyclerview-1.1.0/res
+com.nttdata.nytimesapp-lifecycle-process-2.4.1-18 /Users/bfernave/.gradle/caches/transforms-3/239cb288d24fab06dc4c3b9191b46e71/transformed/lifecycle-process-2.4.1/res
+com.nttdata.nytimesapp-material-icons-core-1.3.1-19 /Users/bfernave/.gradle/caches/transforms-3/2460ee7d2b5f72c77b693532e6d88706/transformed/material-icons-core-1.3.1/res
+com.nttdata.nytimesapp-appcompat-1.5.1-20 /Users/bfernave/.gradle/caches/transforms-3/26969cec9235d2ba33cb932781dda4b9/transformed/appcompat-1.5.1/res
+com.nttdata.nytimesapp-activity-compose-1.5.1-21 /Users/bfernave/.gradle/caches/transforms-3/2a986dbb6e5a986ed1cbd583c615b87b/transformed/activity-compose-1.5.1/res
+com.nttdata.nytimesapp-profileinstaller-1.2.0-22 /Users/bfernave/.gradle/caches/transforms-3/2f1c14035640d9742cbe22ed3114d4de/transformed/profileinstaller-1.2.0/res
+com.nttdata.nytimesapp-core-ktx-1.9.0-23 /Users/bfernave/.gradle/caches/transforms-3/2f31b1fd50ec79b49957e5b60b663e24/transformed/core-ktx-1.9.0/res
+com.nttdata.nytimesapp-ui-text-1.3.2-24 /Users/bfernave/.gradle/caches/transforms-3/33a64f6d8f702c2132f568384d385992/transformed/ui-text-1.3.2/res
+com.nttdata.nytimesapp-ui-tooling-preview-1.3.2-25 /Users/bfernave/.gradle/caches/transforms-3/34b3edc80c855435761658b3ed1bcc87/transformed/ui-tooling-preview-1.3.2/res
+com.nttdata.nytimesapp-navigation-runtime-ktx-2.5.3-26 /Users/bfernave/.gradle/caches/transforms-3/34e59a5d51d7ca4f4d8b305aa743699e/transformed/navigation-runtime-ktx-2.5.3/res
+com.nttdata.nytimesapp-navigation-ui-ktx-2.5.3-27 /Users/bfernave/.gradle/caches/transforms-3/3736b0b5428ad0d5680b624fbbd1f5e0/transformed/navigation-ui-ktx-2.5.3/res
+com.nttdata.nytimesapp-lifecycle-livedata-2.6.0-alpha03-28 /Users/bfernave/.gradle/caches/transforms-3/376648e3b56b1aa9a62ca15352158552/transformed/lifecycle-livedata-2.6.0-alpha03/res
+com.nttdata.nytimesapp-ui-graphics-1.3.2-29 /Users/bfernave/.gradle/caches/transforms-3/3872c93c664dc375bbce8bf8a4b6b38c/transformed/ui-graphics-1.3.2/res
+com.nttdata.nytimesapp-transition-1.3.0-30 /Users/bfernave/.gradle/caches/transforms-3/400155ee17d93743a223d63cf03ac80d/transformed/transition-1.3.0/res
+com.nttdata.nytimesapp-drawerlayout-1.1.1-31 /Users/bfernave/.gradle/caches/transforms-3/4f5c7e3838aa739af0c84c986dd8b303/transformed/drawerlayout-1.1.1/res
+com.nttdata.nytimesapp-navigation-ui-2.5.3-32 /Users/bfernave/.gradle/caches/transforms-3/54d401754904ca528417aab471096af6/transformed/navigation-ui-2.5.3/res
+com.nttdata.nytimesapp-ui-unit-1.3.2-33 /Users/bfernave/.gradle/caches/transforms-3/55b1c7930bdad8aeae3931337195c20d/transformed/ui-unit-1.3.2/res
+com.nttdata.nytimesapp-savedstate-1.2.0-34 /Users/bfernave/.gradle/caches/transforms-3/5e5b8cc6a00524f3449f51e2de61775b/transformed/savedstate-1.2.0/res
+com.nttdata.nytimesapp-ui-util-1.3.2-35 /Users/bfernave/.gradle/caches/transforms-3/6cf79cace0e2a96d6edc87e799ccbd26/transformed/ui-util-1.3.2/res
+com.nttdata.nytimesapp-ui-tooling-1.3.2-36 /Users/bfernave/.gradle/caches/transforms-3/6fb5d973fd31859718841074f9dc0b75/transformed/ui-tooling-1.3.2/res
+com.nttdata.nytimesapp-lifecycle-viewmodel-2.6.0-alpha03-37 /Users/bfernave/.gradle/caches/transforms-3/715afb0c6fb5709e29590fa625de81d6/transformed/lifecycle-viewmodel-2.6.0-alpha03/res
+com.nttdata.nytimesapp-activity-1.5.1-38 /Users/bfernave/.gradle/caches/transforms-3/76c8771a6536c6bd54e33c535ace4fcf/transformed/activity-1.5.1/res
+com.nttdata.nytimesapp-savedstate-ktx-1.2.0-39 /Users/bfernave/.gradle/caches/transforms-3/77782663cff5ae585085f07bdfec6aae/transformed/savedstate-ktx-1.2.0/res
+com.nttdata.nytimesapp-foundation-1.3.1-40 /Users/bfernave/.gradle/caches/transforms-3/7936af29ac5b79ce092037652c43e286/transformed/foundation-1.3.1/res
+com.nttdata.nytimesapp-lifecycle-viewmodel-ktx-2.6.0-alpha03-41 /Users/bfernave/.gradle/caches/transforms-3/7be0f3ca6fe15c68bfbfc690aec7369c/transformed/lifecycle-viewmodel-ktx-2.6.0-alpha03/res
+com.nttdata.nytimesapp-runtime-1.3.2-42 /Users/bfernave/.gradle/caches/transforms-3/8618b1fd21cab52dd9b5940ec0a95f39/transformed/runtime-1.3.2/res
+com.nttdata.nytimesapp-emoji2-1.2.0-43 /Users/bfernave/.gradle/caches/transforms-3/89b8d0bb34420cbc062f56dc88d99f26/transformed/emoji2-1.2.0/res
+com.nttdata.nytimesapp-datastore-1.0.0-44 /Users/bfernave/.gradle/caches/transforms-3/978db9114a221cd478d4d2b0cb31a5aa/transformed/datastore-1.0.0/res
+com.nttdata.nytimesapp-emoji2-views-helper-1.2.0-45 /Users/bfernave/.gradle/caches/transforms-3/981f75397fae748f34cbcb505f1e1845/transformed/emoji2-views-helper-1.2.0/res
+com.nttdata.nytimesapp-foundation-layout-1.3.1-46 /Users/bfernave/.gradle/caches/transforms-3/9913cf6c17f6ef1caf2aa4d6105af5a0/transformed/foundation-layout-1.3.1/res
+com.nttdata.nytimesapp-customview-poolingcontainer-1.0.0-47 /Users/bfernave/.gradle/caches/transforms-3/9c71b2675b2079eea6bb96969ef7e00c/transformed/customview-poolingcontainer-1.0.0/res
+com.nttdata.nytimesapp-material-icons-extended-1.3.1-48 /Users/bfernave/.gradle/caches/transforms-3/9ccd56a2d4b6d2f7b762e275c310a269/transformed/material-icons-extended-1.3.1/res
+com.nttdata.nytimesapp-core-1.9.0-49 /Users/bfernave/.gradle/caches/transforms-3/9dbcaae8bb74d17d962b6a68fe9b0deb/transformed/core-1.9.0/res
+com.nttdata.nytimesapp-runtime-saveable-1.3.2-50 /Users/bfernave/.gradle/caches/transforms-3/a11726ac5105277346486402f940efe7/transformed/runtime-saveable-1.3.2/res
+com.nttdata.nytimesapp-wear-1.3.0-alpha03-51 /Users/bfernave/.gradle/caches/transforms-3/a52348d4ba2bf9495cd71f9ea3820aaf/transformed/wear-1.3.0-alpha03/res
+com.nttdata.nytimesapp-lifecycle-viewmodel-savedstate-2.6.0-alpha03-52 /Users/bfernave/.gradle/caches/transforms-3/b761eb87d9e2b87b6c5616cd3ec989b3/transformed/lifecycle-viewmodel-savedstate-2.6.0-alpha03/res
+com.nttdata.nytimesapp-appcompat-resources-1.5.1-53 /Users/bfernave/.gradle/caches/transforms-3/b887122c758e3b4b7a50691612fac7aa/transformed/appcompat-resources-1.5.1/res
+com.nttdata.nytimesapp-navigation-common-ktx-2.5.3-54 /Users/bfernave/.gradle/caches/transforms-3/bc0c3181ca160c42eed555be1d4b9148/transformed/navigation-common-ktx-2.5.3/res
+com.nttdata.nytimesapp-viewpager2-1.0.0-55 /Users/bfernave/.gradle/caches/transforms-3/c54a928126fd7b63362921292c99772c/transformed/viewpager2-1.0.0/res
+com.nttdata.nytimesapp-core-remoteviews-1.0.0-beta03-56 /Users/bfernave/.gradle/caches/transforms-3/c6c8acdac4ab7d433d77af15c61b6324/transformed/core-remoteviews-1.0.0-beta03/res
+com.nttdata.nytimesapp-glance-wear-tiles-1.0.0-alpha05-57 /Users/bfernave/.gradle/caches/transforms-3/c72df91892d671df9a4a19f34d3edf94/transformed/glance-wear-tiles-1.0.0-alpha05/res
+com.nttdata.nytimesapp-lifecycle-livedata-core-2.6.0-alpha03-58 /Users/bfernave/.gradle/caches/transforms-3/c760bf67bf933ad27d51bec314c9b53b/transformed/lifecycle-livedata-core-2.6.0-alpha03/res
+com.nttdata.nytimesapp-material-1.1.0-59 /Users/bfernave/.gradle/caches/transforms-3/cca0fbe241377a02379795ff94e4bc3e/transformed/material-1.1.0/res
+com.nttdata.nytimesapp-animation-1.3.2-60 /Users/bfernave/.gradle/caches/transforms-3/ce44cf5d3276912064ef3bef4f3c20df/transformed/animation-1.3.2/res
+com.nttdata.nytimesapp-hilt-navigation-1.0.0-61 /Users/bfernave/.gradle/caches/transforms-3/d103409de9962884949b91b5373a17ee/transformed/hilt-navigation-1.0.0/res
+com.nttdata.nytimesapp-compose-foundation-1.1.0-62 /Users/bfernave/.gradle/caches/transforms-3/d87d33467aa9215e5ad5b8b3227831e8/transformed/compose-foundation-1.1.0/res
+com.nttdata.nytimesapp-datastore-preferences-1.0.0-63 /Users/bfernave/.gradle/caches/transforms-3/dc411dcc020d86764e46fd4b8a2db194/transformed/datastore-preferences-1.0.0/res
+com.nttdata.nytimesapp-material-1.7.0-64 /Users/bfernave/.gradle/caches/transforms-3/ddea905a1801298c4d87839efa825450/transformed/material-1.7.0/res
+com.nttdata.nytimesapp-navigation-runtime-2.5.3-65 /Users/bfernave/.gradle/caches/transforms-3/dea9f3c12cca710d6eaa0f373be61c83/transformed/navigation-runtime-2.5.3/res
+com.nttdata.nytimesapp-lifecycle-viewmodel-compose-2.6.0-alpha03-66 /Users/bfernave/.gradle/caches/transforms-3/e1e9216d6efa3cbf2713f8e86d9b3cd3/transformed/lifecycle-viewmodel-compose-2.6.0-alpha03/res
+com.nttdata.nytimesapp-coordinatorlayout-1.1.0-67 /Users/bfernave/.gradle/caches/transforms-3/e3ff31a2a6309113b03dffc2f827e88d/transformed/coordinatorlayout-1.1.0/res
+com.nttdata.nytimesapp-glance-appwidget-1.0.0-alpha05-68 /Users/bfernave/.gradle/caches/transforms-3/e4eae8b648be336ef804db5bec81cb7d/transformed/glance-appwidget-1.0.0-alpha05/res
+com.nttdata.nytimesapp-horologist-composables-0.2.5-69 /Users/bfernave/.gradle/caches/transforms-3/e6e4c2e26f412be2bf21246d1e7b3463/transformed/horologist-composables-0.2.5/res
+com.nttdata.nytimesapp-constraintlayout-2.0.1-70 /Users/bfernave/.gradle/caches/transforms-3/eb9eb17a9f8fecfb26e3fcde4a9a35df/transformed/constraintlayout-2.0.1/res
+com.nttdata.nytimesapp-paging-compose-1.0.0-alpha17-71 /Users/bfernave/.gradle/caches/transforms-3/ef88cbd601f120426f1b3e21365c9a87/transformed/paging-compose-1.0.0-alpha17/res
+com.nttdata.nytimesapp-activity-ktx-1.5.1-72 /Users/bfernave/.gradle/caches/transforms-3/f0701bc72d8b52b41644039e60bbe039/transformed/activity-ktx-1.5.1/res
+com.nttdata.nytimesapp-ui-geometry-1.3.2-73 /Users/bfernave/.gradle/caches/transforms-3/f1d02b0ce4382e7237d0aa1868cba634/transformed/ui-geometry-1.3.2/res
+com.nttdata.nytimesapp-compose-navigation-1.1.0-74 /Users/bfernave/.gradle/caches/transforms-3/f53186f01ce021421d63767e792fe378/transformed/compose-navigation-1.1.0/res
+com.nttdata.nytimesapp-hilt-navigation-compose-1.0.0-75 /Users/bfernave/.gradle/caches/transforms-3/f5a76b37cca7cbbc1594399c05b9eec0/transformed/hilt-navigation-compose-1.0.0/res
+com.nttdata.nytimesapp-lifecycle-runtime-ktx-2.6.0-alpha03-76 /Users/bfernave/.gradle/caches/transforms-3/ff93d24dacc49d8c6b476cac0d3128df/transformed/lifecycle-runtime-ktx-2.6.0-alpha03/res
+com.nttdata.nytimesapp-resValues-77 /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/app/build/generated/res/resValues/debug
+com.nttdata.nytimesapp-rs-78 /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/app/build/generated/res/rs/debug
+com.nttdata.nytimesapp-packageDebugResources-79 /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.nttdata.nytimesapp-packageDebugResources-80 /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.nttdata.nytimesapp-merged_res-81 /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/app/build/intermediates/merged_res/debug
+com.nttdata.nytimesapp-debug-82 /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/app/src/debug/res
+com.nttdata.nytimesapp-main-83 /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/app/src/main/res
+com.nttdata.nytimesapp-packaged_res-84 /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/data/build/intermediates/packaged_res/debug
+com.nttdata.nytimesapp-packaged_res-85 /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/domain/build/intermediates/packaged_res/debug
+com.nttdata.nytimesapp-packaged_res-86 /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/build/intermediates/packaged_res/debug

@@ -1,0 +1,19 @@
+com.nttdata.presentation
+drawable ic_android_black_24dp
+drawable ic_breaking_news
+drawable ic_laucher_background
+drawable ic_laucher_ny_background
+drawable ic_ny
+mipmap ic_laucher
+mipmap ic_laucher_foreground
+mipmap ic_laucher_round
+string app_name
+string archive
+string archive_description
+string books
+string hello_world
+string live_news
+string log_in
+string movies
+string movies_description
+string sections

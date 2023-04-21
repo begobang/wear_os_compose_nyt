@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:2:1-54:12
+INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:2:1-54:12
+	package
+		INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:2:1-54:12
+		INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:6:22-64
+uses-permission#com.google.android.wearable.permission.BIND_TILE_PROVIDER
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:7:5-96
+	android:name
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:7:22-94
+uses-feature#android.hardware.type.watch
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:9:5-64
+	android:name
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:9:19-61
+application
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:11:5-52:19
+	android:theme
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:11:18-68
+uses-library#com.google.android.wearable
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:13:9-15:39
+	android:required
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:14:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:21:9-23:36
+	android:value
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:23:13-33
+	android:name
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:22:13-66
+activity#com.nttdata.presentation.MainActivity
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:25:9-39:20
+	android:label
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:28:13-45
+	android:exported
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:29:13-63
+	android:name
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:26:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:30:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:33:27-74
+meta-data#android.app.lib_name
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:36:13-38:36
+	android:value
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:38:17-33
+	android:name
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:37:17-52
+service#com.nttdata.presentation.ui.tile.TopNewsTileService
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:41:9-50:19
+	android:label
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:45:13-46
+	android:exported
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:44:13-36
+	android:permission
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:46:13-91
+	android:description
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:43:13-52
+	android:name
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:42:13-55
+intent-filter#action:name:androidx.wear.tiles.action.BIND_TILE_PROVIDER
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:47:13-49:29
+action#androidx.wear.tiles.action.BIND_TILE_PROVIDER
+ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:48:17-88
+	android:name
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml:48:25-85
+uses-sdk
+INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+		INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+		ADDED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
+		INJECTED from /Users/bfernave/Documents/Mesa de Android/I+D/wear-os-compose/presentation/src/main/AndroidManifest.xml
