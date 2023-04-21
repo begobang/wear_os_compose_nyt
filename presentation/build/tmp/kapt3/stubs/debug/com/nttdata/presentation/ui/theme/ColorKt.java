@@ -9,9 +9,9 @@ public final class ColorKt {
     private static final long Purple700 = 0L;
     private static final long Teal200 = 0L;
     private static final long Red400 = 0L;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     private static final androidx.wear.compose.material.Colors lightWearColorPalette = null;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     private static final androidx.wear.compose.material.Colors darkWearColorPalette = null;
     
     public static final long getPurple200() {
@@ -34,12 +34,12 @@ public final class ColorKt {
         return 0L;
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final androidx.wear.compose.material.Colors getLightWearColorPalette() {
         return null;
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public static final androidx.wear.compose.material.Colors getDarkWearColorPalette() {
         return null;
     }

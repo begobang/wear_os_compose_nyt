@@ -6,15 +6,15 @@ import java.lang.System;
 public final class GetArchiveRepositoryImpl implements com.nttdata.domain.archive.GetArchiveRepository {
     private final com.nttdata.data.remoteDataSource.GetArchiveRemoteDataSource remoteDataSource = null;
     
-    @javax.inject.Inject()
-    public GetArchiveRepositoryImpl(@org.jetbrains.annotations.NotNull()
+    @javax.inject.Inject
+    public GetArchiveRepositoryImpl(@org.jetbrains.annotations.NotNull
     com.nttdata.data.remoteDataSource.GetArchiveRemoteDataSource remoteDataSource) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
-    public com.rocket.core.domain.functional.Either<com.rocket.core.domain.error.Failure, java.util.List<com.nttdata.domain.model.ArchiveBusiness>> getArchive(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
+    public com.rocket.core.domain.functional.Either<com.rocket.core.domain.error.Failure, java.util.List<com.nttdata.domain.model.ArchiveBusiness>> getArchive(@org.jetbrains.annotations.NotNull
     com.nttdata.domain.archive.ArchiveInput input) {
         return null;
     }

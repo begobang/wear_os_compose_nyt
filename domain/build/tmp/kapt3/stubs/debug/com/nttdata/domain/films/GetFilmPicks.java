@@ -6,15 +6,15 @@ import java.lang.System;
 public final class GetFilmPicks extends com.rocket.core.domain.usecase.UseCase<com.rocket.core.domain.functional.Either<? extends com.rocket.core.domain.error.Failure, ? extends java.util.List<? extends com.nttdata.domain.model.FilmPickBusiness>>, kotlin.Unit> {
     private final com.nttdata.domain.films.GetFilmPicksRepository repository = null;
     
-    @javax.inject.Inject()
-    public GetFilmPicks(@org.jetbrains.annotations.NotNull()
+    @javax.inject.Inject
+    public GetFilmPicks(@org.jetbrains.annotations.NotNull
     com.nttdata.domain.films.GetFilmPicksRepository repository) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
-    public com.rocket.core.domain.functional.Either<com.rocket.core.domain.error.Failure, java.util.List<com.nttdata.domain.model.FilmPickBusiness>> run(@org.jetbrains.annotations.Nullable()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
+    public com.rocket.core.domain.functional.Either<com.rocket.core.domain.error.Failure, java.util.List<com.nttdata.domain.model.FilmPickBusiness>> run(@org.jetbrains.annotations.Nullable
     kotlin.Unit params) {
         return null;
     }

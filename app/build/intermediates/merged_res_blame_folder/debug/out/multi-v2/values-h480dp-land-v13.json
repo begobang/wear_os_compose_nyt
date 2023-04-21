@@ -4,7 +4,7 @@
             "outputFile": "com.nttdata.nytimesapp-mergeDebugResources-80:/values-h480dp-land-v13/values-h480dp-land-v13.xml",
             "map": [
                 {
-                    "source": "/Users/bfernave/.gradle/caches/transforms-3/ddea905a1801298c4d87839efa825450/transformed/material-1.7.0/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
+                    "source": "/Users/macos/.gradle/caches/transforms-3/deff135379aeb71097d2e0a3491301b5/transformed/material-1.7.0/res/values-h480dp-land-v13/values-h480dp-land-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10",
                         "startColumns": "4,4,4,4,4,4,4,4,4",

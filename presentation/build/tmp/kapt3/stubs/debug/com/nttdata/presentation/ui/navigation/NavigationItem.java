@@ -9,15 +9,15 @@ public enum NavigationItem {
     /*public static final*/ NEWS /* = new NEWS(null, 0) */,
     /*public static final*/ ARCHIVE /* = new ARCHIVE(null, 0) */,
     /*public static final*/ FILMS /* = new FILMS(null, 0) */;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     private final com.nttdata.presentation.ui.navigation.NavCommand navCommand = null;
     private final int title = 0;
     
-    NavigationItem(com.nttdata.presentation.ui.navigation.NavCommand navCommand, @androidx.annotation.StringRes()
+    NavigationItem(com.nttdata.presentation.ui.navigation.NavCommand navCommand, @androidx.annotation.StringRes
     int title) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final com.nttdata.presentation.ui.navigation.NavCommand getNavCommand() {
         return null;
     }

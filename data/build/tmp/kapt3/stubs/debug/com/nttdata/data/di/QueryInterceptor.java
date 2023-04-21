@@ -6,16 +6,16 @@ import java.lang.System;
 public final class QueryInterceptor implements okhttp3.Interceptor {
     private final java.lang.String privateKey = null;
     
-    @javax.inject.Inject()
-    public QueryInterceptor(@org.jetbrains.annotations.NotNull()
-    @PrivateKey()
+    @javax.inject.Inject
+    public QueryInterceptor(@org.jetbrains.annotations.NotNull
+    @PrivateKey
     java.lang.String privateKey) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
-    public okhttp3.Response intercept(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
+    public okhttp3.Response intercept(@org.jetbrains.annotations.NotNull
     okhttp3.Interceptor.Chain chain) {
         return null;
     }

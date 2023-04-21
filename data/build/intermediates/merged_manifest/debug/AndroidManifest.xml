@@ -2,8 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.nttdata.data" >
 
-    <uses-sdk
-        android:minSdkVersion="26"
-        android:targetSdkVersion="32" />
+    <uses-sdk android:minSdkVersion="26" />
 
 </manifest>

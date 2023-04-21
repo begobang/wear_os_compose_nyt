@@ -6,14 +6,14 @@ import java.lang.System;
 public final class GetSectionsRepositoryImpl implements com.nttdata.domain.sections.GetSectionsRepository {
     private final com.nttdata.data.remoteDataSource.GetSectionsRemoteDataSource remoteDataSource = null;
     
-    @javax.inject.Inject()
-    public GetSectionsRepositoryImpl(@org.jetbrains.annotations.NotNull()
+    @javax.inject.Inject
+    public GetSectionsRepositoryImpl(@org.jetbrains.annotations.NotNull
     com.nttdata.data.remoteDataSource.GetSectionsRemoteDataSource remoteDataSource) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public com.rocket.core.domain.functional.Either<com.rocket.core.domain.error.Failure, java.util.List<com.nttdata.domain.model.SectionBusiness>> getSections(int limit) {
         return null;
     }

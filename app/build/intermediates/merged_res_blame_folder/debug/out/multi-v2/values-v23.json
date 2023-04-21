@@ -4,7 +4,7 @@
             "outputFile": "com.nttdata.nytimesapp-mergeDebugResources-80:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "/Users/bfernave/.gradle/caches/transforms-3/ddea905a1801298c4d87839efa825450/transformed/material-1.7.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/macos/.gradle/caches/transforms-3/deff135379aeb71097d2e0a3491301b5/transformed/material-1.7.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,5,8,13,17,20,23,26,31,34,38",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -23,26 +23,17 @@
                     }
                 },
                 {
-                    "source": "/Users/bfernave/.gradle/caches/transforms-3/0c5d05c9dc33fb591708ffea52d7a1fb/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
+                    "source": "/Users/macos/.gradle/caches/transforms-3/d064231f5afe3e9d77a8941e6dcd6d35/transformed/glance-appwidget-1.0.0-alpha05/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endLines": "4",
-                        "endColumns": "12",
-                        "endOffsets": "200"
-                    },
-                    "to": {
-                        "startLines": "51",
-                        "startColumns": "4",
-                        "startOffsets": "3288",
-                        "endLines": "53",
-                        "endColumns": "12",
-                        "endOffsets": "3433"
+                        "endColumns": "55",
+                        "endOffsets": "106"
                     }
                 },
                 {
-                    "source": "/Users/bfernave/.gradle/caches/transforms-3/26969cec9235d2ba33cb932781dda4b9/transformed/appcompat-1.5.1/res/values-v23/values-v23.xml",
+                    "source": "/Users/macos/.gradle/caches/transforms-3/a54140435c7a3505a701d549cfe8528d/transformed/appcompat-1.5.1/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -61,13 +52,22 @@
                     }
                 },
                 {
-                    "source": "/Users/bfernave/.gradle/caches/transforms-3/e4eae8b648be336ef804db5bec81cb7d/transformed/glance-appwidget-1.0.0-alpha05/res/values-v23/values-v23.xml",
+                    "source": "/Users/macos/.gradle/caches/transforms-3/f0f7dc159cca8b8fc46506ec4ce9e3ef/transformed/cardview-1.0.0/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
-                        "endColumns": "55",
-                        "endOffsets": "106"
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "51",
+                        "startColumns": "4",
+                        "startOffsets": "3288",
+                        "endLines": "53",
+                        "endColumns": "12",
+                        "endOffsets": "3433"
                     }
                 }
             ]

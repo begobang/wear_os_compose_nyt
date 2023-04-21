@@ -6,15 +6,15 @@ import java.lang.System;
 public final class GetSections extends com.rocket.core.domain.usecase.UseCase<com.rocket.core.domain.functional.Either<? extends com.rocket.core.domain.error.Failure, ? extends java.util.List<? extends com.nttdata.domain.model.SectionBusiness>>, java.lang.Integer> {
     private final com.nttdata.domain.sections.GetSectionsRepository repository = null;
     
-    @javax.inject.Inject()
-    public GetSections(@org.jetbrains.annotations.NotNull()
+    @javax.inject.Inject
+    public GetSections(@org.jetbrains.annotations.NotNull
     com.nttdata.domain.sections.GetSectionsRepository repository) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
-    public com.rocket.core.domain.functional.Either<com.rocket.core.domain.error.Failure, java.util.List<com.nttdata.domain.model.SectionBusiness>> run(@org.jetbrains.annotations.Nullable()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
+    public com.rocket.core.domain.functional.Either<com.rocket.core.domain.error.Failure, java.util.List<com.nttdata.domain.model.SectionBusiness>> run(@org.jetbrains.annotations.Nullable
     java.lang.Integer params) {
         return null;
     }

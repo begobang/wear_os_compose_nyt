@@ -9,13 +9,13 @@ public enum Screens {
     /*public static final*/ FILMS /* = new FILMS(null) */,
     /*public static final*/ NEWS /* = new NEWS(null) */,
     /*public static final*/ ARCHIVE /* = new ARCHIVE(null) */;
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     private final java.lang.String route = null;
     
     Screens(java.lang.String route) {
     }
     
-    @org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
     public final java.lang.String getRoute() {
         return null;
     }

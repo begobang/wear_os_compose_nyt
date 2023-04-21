@@ -4,7 +4,7 @@
             "outputFile": "com.nttdata.nytimesapp-mergeDebugResources-80:/values-sw210dp-round-v23/values-sw210dp-round-v23.xml",
             "map": [
                 {
-                    "source": "/Users/bfernave/.gradle/caches/transforms-3/a52348d4ba2bf9495cd71f9ea3820aaf/transformed/wear-1.3.0-alpha03/res/values-sw210dp-round-v23/values-sw210dp-round-v23.xml",
+                    "source": "/Users/macos/.gradle/caches/transforms-3/994250f68de9e3bf72b004304a05489f/transformed/wear-1.3.0-alpha03/res/values-sw210dp-round-v23/values-sw210dp-round-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7",
                         "startColumns": "4,4,4,4,4,4",

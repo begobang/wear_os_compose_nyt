@@ -4,7 +4,7 @@
             "outputFile": "com.nttdata.nytimesapp-mergeDebugResources-80:/values-v29/values-v29.xml",
             "map": [
                 {
-                    "source": "/Users/bfernave/.gradle/caches/transforms-3/e4eae8b648be336ef804db5bec81cb7d/transformed/glance-appwidget-1.0.0-alpha05/res/values-v29/values-v29.xml",
+                    "source": "/Users/macos/.gradle/caches/transforms-3/d064231f5afe3e9d77a8941e6dcd6d35/transformed/glance-appwidget-1.0.0-alpha05/res/values-v29/values-v29.xml",
                     "from": {
                         "startLines": "2,3,7,11",
                         "startColumns": "4,4,4,4",

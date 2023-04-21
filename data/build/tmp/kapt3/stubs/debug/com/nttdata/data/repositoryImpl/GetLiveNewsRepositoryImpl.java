@@ -6,15 +6,15 @@ import java.lang.System;
 public final class GetLiveNewsRepositoryImpl implements com.nttdata.domain.liveNews.GetLiveNewsRepository {
     private final com.nttdata.data.remoteDataSource.GetLiveNewsRemoteDataSource remoteDataSource = null;
     
-    @javax.inject.Inject()
-    public GetLiveNewsRepositoryImpl(@org.jetbrains.annotations.NotNull()
+    @javax.inject.Inject
+    public GetLiveNewsRepositoryImpl(@org.jetbrains.annotations.NotNull
     com.nttdata.data.remoteDataSource.GetLiveNewsRemoteDataSource remoteDataSource) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
-    public com.rocket.core.domain.functional.Either<com.rocket.core.domain.error.Failure, java.util.List<com.nttdata.domain.model.LiveNewsBusiness>> getLiveNews(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
+    public com.rocket.core.domain.functional.Either<com.rocket.core.domain.error.Failure, java.util.List<com.nttdata.domain.model.LiveNewsBusiness>> getLiveNews(@org.jetbrains.annotations.NotNull
     com.nttdata.domain.liveNews.LiveNewsInput input) {
         return null;
     }

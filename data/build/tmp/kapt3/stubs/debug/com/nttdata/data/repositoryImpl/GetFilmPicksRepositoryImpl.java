@@ -6,14 +6,14 @@ import java.lang.System;
 public final class GetFilmPicksRepositoryImpl implements com.nttdata.domain.films.GetFilmPicksRepository {
     private final com.nttdata.data.remoteDataSource.GetFilmPicksRemoteDataSource remoteDataSource = null;
     
-    @javax.inject.Inject()
-    public GetFilmPicksRepositoryImpl(@org.jetbrains.annotations.NotNull()
+    @javax.inject.Inject
+    public GetFilmPicksRepositoryImpl(@org.jetbrains.annotations.NotNull
     com.nttdata.data.remoteDataSource.GetFilmPicksRemoteDataSource remoteDataSource) {
         super();
     }
     
-    @org.jetbrains.annotations.NotNull()
-    @java.lang.Override()
+    @org.jetbrains.annotations.NotNull
+    @java.lang.Override
     public com.rocket.core.domain.functional.Either<com.rocket.core.domain.error.Failure, java.util.List<com.nttdata.domain.model.FilmPickBusiness>> getFilmPicks() {
         return null;
     }

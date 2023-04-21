@@ -6,15 +6,15 @@ import java.lang.System;
 public final class GetArchiveRemoteDataSource extends com.rocket.android.core.data.network.datasource.BaseNetworkDatasource {
     private final com.nttdata.data.services.GetArchiveService service = null;
     
-    @javax.inject.Inject()
-    public GetArchiveRemoteDataSource(@org.jetbrains.annotations.NotNull()
-    com.nttdata.data.services.GetArchiveService service, @org.jetbrains.annotations.NotNull()
+    @javax.inject.Inject
+    public GetArchiveRemoteDataSource(@org.jetbrains.annotations.NotNull
+    com.nttdata.data.services.GetArchiveService service, @org.jetbrains.annotations.NotNull
     com.rocket.core.crashreporting.logger.CrashLogger crashLogger) {
         super(null);
     }
     
-    @org.jetbrains.annotations.NotNull()
-    public final com.rocket.core.domain.functional.Either<com.rocket.core.domain.error.Failure, java.util.List<com.nttdata.domain.model.ArchiveBusiness>> getArchive(@org.jetbrains.annotations.NotNull()
+    @org.jetbrains.annotations.NotNull
+    public final com.rocket.core.domain.functional.Either<com.rocket.core.domain.error.Failure, java.util.List<com.nttdata.domain.model.ArchiveBusiness>> getArchive(@org.jetbrains.annotations.NotNull
     com.nttdata.data.request.ArchiveRequest request) {
         return null;
     }
